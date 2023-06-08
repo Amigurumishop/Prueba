@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: bisque;
+}
+form{
+    width: 700px;
+    margin: auto;
+    background-color: beige;
+    margin-top: 100px;
+}
+input{
+    padding: 8px;
+    margin: 12px;
+    width: 660px;
+    font-size: 18px;
+}
+textarea{
+    font-size: 18px;
+    margin: 12px;
+    padding: 8px;
+    width: 660px;
+}
